@@ -1,0 +1,94 @@
+body {
+    background-color: antiquewhite;
+}
+
+.container{
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+.btn{
+    background: #333333;
+    border-radius: 100%;
+    padding: 10px 25px;
+    font-size: 40px;
+    font-family: Futura, sans-serif;
+    color: antiquewhite;
+    cursor: pointer;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-bottom: 30px;
+}
+
+.btnwide{
+    background: #333333;
+    border-radius: 100%;
+    padding: 10px 13px;
+    font-size: 40px;
+    font-family: Futura, sans-serif;
+    color: antiquewhite;
+    cursor: pointer;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+.box{
+    width: 700px;
+    background: #e1d3c1;
+    padding: 30px;
+    text-align: center;
+    margin: auto;
+    color: white;
+    border-radius: 2%;
+}
+
+.box1{
+    width: 700px;
+    background: #e1d3c1;
+    padding: 30px;
+    text-align: center;
+    margin: auto;
+    color: white;
+    border-radius: 2%;
+}
+
+h1{
+    font-size: 75px;
+    font-family: Minniea, Futura, sans-serif;
+    color: #333333;
+    text-align: center;
+    margin-bottom: 30px;
+    margin-top: 20px;
+}
+
+h2{
+    font-size: 70px;
+    font-family: Minniea, Futura, sans-serif;
+    color: #333333;
+    text-align: center;
+    margin-bottom: 30px;
+    margin-top: 20px;
+
+}
+p{
+    font-size: 30px;
+    font-family: Futura, sans-serif;
+}
+
+.smaller-image {
+    width: 510px;
+    border-radius: 7%;
+    opacity: 0.8;
+}
+
+.icon {
+    width: 80px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+@font-face{
+    font-family: ;
+    src: url("");
+}
